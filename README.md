@@ -1,9 +1,9 @@
 <div align="center" style="position: relative; text-align: center; color: white;">
-    <img src="image1.jpeg" alt="Pixel Palette Banner" style="width: 100%; height: auto; display: block; border-radius: 15px;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 90%; padding: 20px; background-color: rgba(0, 0, 0, 0.3); border-radius: 15px;">
         <h1 style="color: white; font-size: 3.5vw; font-weight: bold; margin-bottom: 10px; text-shadow: 2px 2px 8px rgba(0,0,0,0.7);">🎨 Pixel Palette</h1>
         <p style="color: #f8f8f8; font-size: 1.8vw; font-weight: 500; text-shadow: 1px 1px 4px rgba(0,0,0,0.7);">Discover the soul of your photos through colors.</p>
     </div>
+    <img src="image1.jpeg" alt="Pixel Palette Banner" style="width: 100%; height: auto; display: block; border-radius: 15px;">
 </div>
 
 <br>
