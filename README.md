@@ -57,7 +57,7 @@ Follow the steps below to run this project on your local machine:
 
 1.  **Clone the Project:**
     ```bash
-    git clone [https://github.com/UnalPilavci/Pixel-Palette.git](https://github.com/UnalPilavci/Pixel-Palette.git)
+    git clone https://github.com/UnalPilavci/Pixel-Palette.git
     ```
 
 2.  **Enter the Project Directory:**
